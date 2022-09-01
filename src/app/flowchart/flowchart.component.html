@@ -1,0 +1,10 @@
+<div #mermaid class="mermaid">
+  graph TD;
+  A[start]-->B[step1];
+  B-->C[step2];
+  C-->D[decision];
+  D-->|yes|Y[yes step];
+  D-->|No|N[No STEP];
+  Y-->B;
+  N-->E[end];
+</div>
