@@ -15,7 +15,7 @@ PS : This repo is open for any contribution :))
 - npm install 
 - ng serve
 
-or [Click Here](https://angular-flowchart-editor-4q9kc1xo4-rihemebh.vercel.app)
+or [Click Here](https://angular-flowchart-editor.vercel.app)
 
 ### Create your first flowchart: 
 
