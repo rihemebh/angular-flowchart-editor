@@ -2,7 +2,7 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { FlowchartComponent } from './flowchart.component';
 
-describe('FlowchartComponent', () => {
+describe('GrapheditorComponent', () => {
   let component: FlowchartComponent;
   let fixture: ComponentFixture<FlowchartComponent>;
 
