@@ -29,7 +29,7 @@
     "html2canvas": "^1.4.1",
     "jquery": "^3.6.0",
     "jsplumb": "^2.15.6",
-    "mermaid": "^9.1.5",
+    "mermaid": "^9.3.0",
     "ngx-simple-modal": "^1.4.17",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
